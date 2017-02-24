@@ -2885,8 +2885,6 @@
 		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
 		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
 		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
-		-webkit-animation-delay: 0.3s;
-    	animation-delay: 0.3s;
 	}
 
 	body.is-loading .banner.onload-content-fade-left .content {
@@ -2902,8 +2900,6 @@
 		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
 		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
 		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
-		-webkit-transition-delay: 0.5s;
-    	transition-delay: 0.5s;
 
 	}
 
